@@ -189,8 +189,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 .custom02 .sec-title{color: #fff;}
 
-#skill,#contact{
-  
+#skill,#contact{  
 }
 .sec{
   position: relative;
@@ -345,7 +344,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   background-color: #b9dde0;
 }
 .footer-inner{
-  position: relative; 
+  position: relative;
   width: 90%;
   margin: auto;
   color: #fff;
@@ -386,4 +385,3 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 .fadeIn{
   animation: fadeIn 2s ease 0.7s 1 forwards;
 }
-
